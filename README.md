@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Ananya R Lama</h1>
+# <h1 align="center">Hello 👋, I'm Ananya R Lama</h1>
 
 ### <h3 align="center"> Marketing & Design Student | B.A. Mass Comm & Journalism | St. Xavier's College </h3>
 
