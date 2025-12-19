@@ -1,5 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Ananya R Lama</h1>
 
+### <h2 align="center"> Marketing & Design Student | B.A. Mass Communications & Journalism Student | St. Xavier's College </h2>
+
 <!--
 **ananyarlama/ananyarlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
