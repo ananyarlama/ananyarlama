@@ -9,14 +9,7 @@
 Here are links to the different works I've been involved in:
 
 1. [Main Photography Portfolio](https://drive.google.com/file/d/1InWn2pvFTwYmtSginx41znd2ZD5SuyYU/view?pli=1) 📷
-
-<p align="center">
-  <img src="https://imgur.com/d34wyY5" alt="Page 1" />
-</p>
-
-https://imgur.com/toFAq9J
-
-3. 
+2. [Matcha Work](https://drive.google.com/file/d/1kyn-s8U9a3LRuHhXCEa0yas3GzmL3lnn/view?usp=sharing)
 
 <!--
 **ananyarlama/ananyarlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
