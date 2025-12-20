@@ -8,7 +8,7 @@
 
 Here are links to the different works I've been involved in:
 
-1. [Main Photography Portfolio](https://drive.google.com/file/d/1InWn2pvFTwYmtSginx41znd2ZD5SuyYU/view?pli=1) 📷
+1. [Main Photography Portfolio](https://www.canva.com/design/DAG8CHqJILI/xlKfF_gGbRP1mjJxqADt-A/edit?utm_content=DAG8CHqJILI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📷
 2. [Matcha Product Mockup Work](https://drive.google.com/file/d/1kyn-s8U9a3LRuHhXCEa0yas3GzmL3lnn/view?usp=sharing) 🍵
 3. [Global Union Summit Photography Archive](https://drive.google.com/drive/folders/1D9sohLwvTcga4LSswLvZFysSNl6mJjyH?usp=drive_link) 🗃
 4. [Meghalaya MUN Pictures (Used in Assam Tribune)](https://drive.google.com/drive/folders/1-Fp6cOgphdG1MxkFxIuDWEEIpYKhyZ8R?usp=drive_link) 🏔
