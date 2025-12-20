@@ -14,11 +14,12 @@ Here are links to the different works I've been involved in:
 4. [Meghalaya MUN Pictures (Used in Assam Tribune)](https://drive.google.com/drive/folders/1-Fp6cOgphdG1MxkFxIuDWEEIpYKhyZ8R?usp=drive_link) 🏔
 5. [Ramen HQ Art v/s Artist Tour pictures part 1](https://www.instagram.com/p/DOYDPL9CBD3/?img_index=2&igsh=MXkyN2cxZXd6Zjlndw==) 🍜
 6. [Ramen HQ Art v/s Artist Tour pictures part 2](https://www.instagram.com/p/DOBdIqJE1nY/?igsh=MWd2YTB0ajl2czh6Mg%3D%3D&img_index=1) 🍜🍜
-7. 
-8. 
-9. 
-10. 
-11. 
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ananyarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ananya R Lama" height="30" width="40" /></a>
 
 <!--
 **ananyarlama/ananyarlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
