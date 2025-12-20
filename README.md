@@ -19,7 +19,9 @@ Here are links to the different works I've been involved in:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ananyarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ananya R Lama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ananyarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ananya Lama" height="30" width="40" /></a>
+<a href="https://instagram.com/ananyarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" Instagram - @ananyarl" height="30" width="40" /></a>
+</p>
 
 <!--
 **ananyarlama/ananyarlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
