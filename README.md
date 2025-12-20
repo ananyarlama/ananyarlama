@@ -9,7 +9,16 @@
 Here are links to the different works I've been involved in:
 
 1. [Main Photography Portfolio](https://drive.google.com/file/d/1InWn2pvFTwYmtSginx41znd2ZD5SuyYU/view?pli=1) 📷
-2. [Matcha Work](https://drive.google.com/file/d/1kyn-s8U9a3LRuHhXCEa0yas3GzmL3lnn/view?usp=sharing)
+2. [Matcha Work](https://drive.google.com/file/d/1kyn-s8U9a3LRuHhXCEa0yas3GzmL3lnn/view?usp=sharing) 🍵
+3. [Global Union Summit Photography Archive](https://drive.google.com/drive/folders/1D9sohLwvTcga4LSswLvZFysSNl6mJjyH?usp=drive_link) 🗃
+4. [Meghalaya MUN Pictures (Used in Assam Tribune)](https://drive.google.com/drive/folders/1-Fp6cOgphdG1MxkFxIuDWEEIpYKhyZ8R?usp=drive_link) 🏔
+5. [Ramen HQ Art v/s Artist Tour pictures part 1](https://www.instagram.com/p/DOYDPL9CBD3/?img_index=2&igsh=MXkyN2cxZXd6Zjlndw==) 🍜
+6. [Ramen HQ Art v/s Artist Tour pictures part 2](https://www.instagram.com/p/DOBdIqJE1nY/?igsh=MWd2YTB0ajl2czh6Mg%3D%3D&img_index=1) 🍜🍜
+7. 
+8. 
+9. 
+10. 
+11. 
 
 <!--
 **ananyarlama/ananyarlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
